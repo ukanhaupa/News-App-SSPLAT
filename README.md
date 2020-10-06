@@ -1,12 +1,9 @@
 # News-App
-Simple iOS News App that shows the Latest Breaking News Of The Day written in Swift 4
+Simple iOS News App that shows the Latest Breaking News Of The Day written.
 
 ## Preview
 ![Alt Text](https://media.giphy.com/media/dXiPEPf3vNdnhLl8cr/giphy.gif)
-
-**Built with**
-- Ios 11.4
-- Xcode 9.4 
+ 
 
 ## Features
 - **Get the Latest Breaking News of the Day using the [News API](https://newsapi.org/)**
