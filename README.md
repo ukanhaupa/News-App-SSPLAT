@@ -32,5 +32,3 @@ import SDWebImage
 [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON)  
 [Alamofire](https://github.com/Alamofire/Alamofire)   
 
-## License
-Standard MIT [License](https://github.com/johnnyperdomo/News-App/blob/master/LICENSE)
